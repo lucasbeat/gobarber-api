@@ -1,0 +1,11 @@
+node_modules
+.env
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+.env
+>>>>>>> 359fcd8... register and user authentication done
+=======
+>>>>>>> 1c8b418... adicionado envio de arquivos
+=======
+>>>>>>> cfa6118828fc49cf75bd189871d957850e882816
